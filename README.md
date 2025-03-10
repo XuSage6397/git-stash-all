@@ -4,7 +4,7 @@ A shell script stash all git repos in current directory
 # Quick start
 1. clone code
 ```sh
-git clone 
+git clone https://github.com/XuSage6397/git-stash-all.git
 ```
 2. add execute privilege 
 ```shell
